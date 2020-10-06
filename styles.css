@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+#title{
+       padding-top: 20px;
+       font-family: 'Stoke', serif;
+       text-align: center;
+       font-weight: bold;
+       font-size: xx-large;
+       background-color: black;
+       color: aliceblue;
+       margin-top: 0%;
+       padding-bottom: 10px;
+}
+
+#title-lil{
+    font-family: 'Stoke', serif;
+    text-align: center;
+}
+
+#image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 4px;
+    box-shadow: 5px 5px gray;
+}
+
+#caption{
+    text-align: center;
+    font-family: Roboto;
+}
+
+#content{
+    
+    width: 100%;
+    background-color: gray;
+}
+
+#information{
+    margin-left: 10px;
+    padding-top: 5px;
+    font-family: 'Stoke', serif;
+    line-height: 2;
+}
+
+h3{
+    font-family: 'Stoke', serif;
+    text-align: center;   
+}
+
+a{
+    text-decoration: none;
+}
+
+#footer{
+    text-align: center;
+    font-family: 'Stoke', serif;
+    color: aliceblue;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
