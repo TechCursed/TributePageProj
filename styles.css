@@ -41,7 +41,7 @@ body{
     background-color: gray;
 }
 
-#information{
+#tribute-info{
     margin-left: 10px;
     padding-top: 5px;
     font-family: 'Stoke', serif;
@@ -64,4 +64,10 @@ a{
     background-color: black;
     padding-top: 10px;
     padding-bottom: 20px;
+}
+
+@media(max-width:460px) {
+    #content {
+        font-size: 15px;
+    }
 }
